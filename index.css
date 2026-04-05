@@ -1,0 +1,41 @@
+.heading {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .button {
+            display: grid;
+            grid-template-columns: repeat(2, 100px);
+            gap: 10px;
+
+            margin: 50px auto;   
+            width: max-content; 
+        }
+.b{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    
+}
+.c{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+.d{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+}
+.e{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+}
+.gflash{
+    background-color: white;
+}
+
+.uflash{
+    background-color: brown;
+}
